@@ -10,12 +10,15 @@
   },
   "dependencies": {
     "@expo/cli": "^0.10.14",
+    "@salesforce-ux/design-system": "^2.23.0-fix",
     "expo": "~49.0.16",
     "expo-status-bar": "~1.7.1",
     "react": "18.2.0",
+    "react-dom": "18.2.0",
     "react-native": "0.72.6",
-    "react-native-web": "~0.19.9",
-    "react-dom": "18.2.0"
+    "react-native-paper": "^5.12.1",
+    "react-native-vector-icons": "^10.0.3",
+    "react-native-web": "~0.19.9"
   },
   "devDependencies": {
     "@babel/core": "^7.23.2",
